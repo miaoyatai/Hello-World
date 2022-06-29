@@ -1,2 +1,1 @@
-print("Hello World")
-print("老板老是神经病")
+Git学习网址：http://www.liaoxuefeng.com/  
